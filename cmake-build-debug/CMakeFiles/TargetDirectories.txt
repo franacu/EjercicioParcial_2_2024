@@ -1,0 +1,3 @@
+/Users/fran/Documents/Paradigmas de Programacion 2/EjParcial2024/cmake-build-debug/CMakeFiles/EjParcial2024.dir
+/Users/fran/Documents/Paradigmas de Programacion 2/EjParcial2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fran/Documents/Paradigmas de Programacion 2/EjParcial2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
